@@ -1,0 +1,2 @@
+punlic class Lalpur{
+}
